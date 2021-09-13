@@ -1,5 +1,5 @@
 ---
-- hosts: ansible-test
+- hosts: ansible1-test
   tasks:
     - name: Install LAMP stack using Ansible
       become: yes

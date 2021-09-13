@@ -1,2 +1,2 @@
-[ansible-test]
+[ansible1-test]
 172.31.85.48 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/ssh_key
